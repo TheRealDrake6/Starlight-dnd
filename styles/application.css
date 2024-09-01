@@ -1,6 +1,7 @@
 @font-face {
   font-family: OCR;
   src: url("../font/ocr-a-extended.ttf");
+  src: url("../font/ocr-a-extended.woff");
 }
 h1 {
   font-family: OCR;

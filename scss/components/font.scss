@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OCR-A';
+    src: URL('../../font/ocr-a-extended.ttf') format('truetype');
+  }
+
+h1{
+    font:inherit;
+    font-family: "OCR-A";
+}

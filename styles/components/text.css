@@ -30,12 +30,12 @@ ul li {
 }
 
 a:link {
-  color: white;
+  color: #b2ffff;
   text-decoration: none;
 }
 
 a:visited {
-  color: white;
+  color: #b2ffff;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ a:hover {
 }
 
 a:active {
-  color: white;
+  color: #b2ffff;
   text-decoration: none;
 }
 

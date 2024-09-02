@@ -5,4 +5,48 @@ h1 {
   padding: 10px;
 }
 
+.map-info {
+  font-family: OCR;
+  color: white;
+  position: absolute;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  color: white;
+  font-family: OCR;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=text.css.map */

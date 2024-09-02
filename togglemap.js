@@ -1,5 +1,75 @@
 $(document).ready(function(){
+  $(".hide").hide();
   $(".harmoni").click(function(){
-    $(".map-info").toggle();
+    $(".hide").hide();
+    $(".harmoni-sys").toggle();
+  });
+  $(".ophi").click(function(){
+    $(".hide").hide();
+    $(".ophi-sys").toggle();
+  });
+  $(".quorvex").click(function(){
+    $(".hide").hide();
+    $(".quorvex-sys").toggle();
+  });
+  $(".vern").click(function(){
+    $(".hide").hide();
+    $(".vern-sys").toggle();
+  });
+  $(".krag").click(function(){
+    $(".hide").hide();
+    $(".krag-sys").toggle();
+  });
+  $(".gehnnar").click(function(){
+    $(".hide").hide();
+    $(".gehnnar-sys").toggle();
+  });
+  $(".aviara").click(function(){
+    $(".hide").hide();
+    $(".aviara-sys").toggle();
+  });
+  $(".meili").click(function(){
+    $(".hide").hide();
+    $(".meili-sys").toggle();
+  });
+  $(".tera").click(function(){
+    $(".hide").hide();
+    $(".tera-sys").toggle();
+  });
+  $(".sylvanoor").click(function(){
+    $(".hide").hide();
+    $(".sylvanoor-sys").toggle();
+  });
+  $(".durnir").click(function(){
+    $(".hide").hide();
+    $(".durnir-sys").toggle();
+  });
+  $(".eaquen").click(function(){
+    $(".hide").hide();
+    $(".eaquen-sys").toggle();
+  });
+  $(".syl").click(function(){
+    $(".hide").hide();
+    $(".syl-sys").toggle();
+  });
+  $(".lirilion").click(function(){
+    $(".hide").hide();
+    $(".lirilion-sys").toggle();
+  });
+  // $(".veilora").click(function(){
+  //   $(".hide").hide();
+  //   $(".veilora-sys").toggle();
+  // });
+  $(".duscar").click(function(){
+    $(".hide").hide();
+    $(".duscar-sys").toggle();
+  });
+  $(".zel").click(function(){
+    $(".hide").hide();
+    $(".zel-sys").toggle();
+  });
+  $(".xyronis").click(function(){
+    $(".hide").hide();
+    $(".xyronis-sys").toggle();
   });
 });

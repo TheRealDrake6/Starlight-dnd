@@ -10,6 +10,14 @@ $(document).ready(function(){
     $(".hide").hide();
     $(".quorvex-planet").toggle();
   });
+  $(".dredalia-vii").click(function(){
+    $(".hide").hide();
+    $(".dredalia-vii-planet").toggle();
+  });
+  $(".mono").click(function(){
+    $(".hide").hide();
+    $(".mono-planet").toggle();
+  });
 
 
   $(".vern").click(function(){
@@ -21,6 +29,10 @@ $(document).ready(function(){
   $(".meili").click(function(){
     $(".hide").hide();
     $(".meili-planet").toggle();
+  });
+  $(".moon-ix").click(function(){
+    $(".hide").hide();
+    $(".moon-ix-planet").toggle();
   });
 
 
@@ -56,6 +68,22 @@ $(document).ready(function(){
   $(".syl").click(function(){
     $(".hide").hide();
     $(".syl-planet").toggle();
+  });
+  $(".6hi").click(function(){
+    $(".hide").hide();
+    $(".6hi-planet").toggle();
+  });
+  $(".geh").click(function(){
+    $(".hide").hide();
+    $(".geh-planet").toggle();
+  });
+  $(".ilk").click(function(){
+    $(".hide").hide();
+    $(".ilk-planet").toggle();
+  });
+  $(".ven").click(function(){
+    $(".hide").hide();
+    $(".ven-planet").toggle();
   });
 
 

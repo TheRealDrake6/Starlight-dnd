@@ -4,38 +4,67 @@ $(document).ready(function(){
     $(".hide").hide();
     $(".harmoni-planet").toggle();
   });
+
+
   $(".quorvex").click(function(){
     $(".hide").hide();
-    $(".quorvex-sys").toggle();
+    $(".quorvex-planet").toggle();
   });
+
+
   $(".vern").click(function(){
     $(".hide").hide();
-    $(".vern-sys").toggle();
+    $(".vern-planet").toggle();
   });
+
+
   $(".meili").click(function(){
     $(".hide").hide();
-    $(".meili-sys").toggle();
+    $(".meili-planet").toggle();
   });
+
+
   $(".tera").click(function(){
     $(".hide").hide();
-    $(".tera-sys").toggle();
+    $(".tera-planet").toggle();
   });
+
+
   $(".durnir").click(function(){
     $(".hide").hide();
-    $(".durnir-sys").toggle();
+    $(".durnir-planet").toggle();
   });
+  $(".obidium").click(function(){
+    $(".hide").hide();
+    $(".obidium-planet").toggle();
+  });
+  $(".tykra").click(function(){
+    $(".hide").hide();
+    $(".tykra-planet").toggle();
+  });
+
   $(".eaquen").click(function(){
     $(".hide").hide();
-    $(".eaquen-sys").toggle();
+    $(".eaquen-planet").toggle();
   });
+  $(".catha").click(function(){
+    $(".hide").hide();
+    $(".catha-planet").toggle();
+  });
+
+
   $(".syl").click(function(){
     $(".hide").hide();
-    $(".syl-sys").toggle();
+    $(".syl-planet").toggle();
   });
+
+
   $(".lirilion").click(function(){
     $(".hide").hide();
-    $(".lirilion-sys").toggle();
+    $(".lirilion-planet").toggle();
   });
+
+
   $(".close").click(function(){
     $(".hide").hide();
   });

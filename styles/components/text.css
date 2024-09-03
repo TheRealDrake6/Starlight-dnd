@@ -55,6 +55,10 @@ P {
   padding-left: 10px;
 }
 
+.close {
+  cursor: pointer;
+}
+
 .typed {
   white-space: nowrap;
   overflow: hidden;

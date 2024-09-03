@@ -8,6 +8,14 @@ body {
   background-color: #08181D;
 }
 
+img {
+  width: 69.5%;
+  position: fixed;
+  top: 22%;
+  left: 15%;
+  border: 5px solid #336763;
+}
+
 @font-face {
   font-family: OCR;
   src: url("../font/ocr-a-extended.ttf");
@@ -68,6 +76,10 @@ P {
   color: #38847E;
   font-family: OCR;
   padding-left: 10px;
+}
+
+.close {
+  cursor: pointer;
 }
 
 .typed {

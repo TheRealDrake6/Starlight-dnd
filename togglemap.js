@@ -2,11 +2,7 @@ $(document).ready(function(){
   $(".hide").hide();
   $(".harmoni").click(function(){
     $(".hide").hide();
-    $(".harmoni-sys").toggle();
-  });
-  $(".ophi").click(function(){
-    $(".hide").hide();
-    $(".ophi-sys").toggle();
+    $(".harmoni-planet").toggle();
   });
   $(".quorvex").click(function(){
     $(".hide").hide();
@@ -16,18 +12,6 @@ $(document).ready(function(){
     $(".hide").hide();
     $(".vern-sys").toggle();
   });
-  $(".krag").click(function(){
-    $(".hide").hide();
-    $(".krag-sys").toggle();
-  });
-  $(".gehnnar").click(function(){
-    $(".hide").hide();
-    $(".gehnnar-sys").toggle();
-  });
-  $(".aviara").click(function(){
-    $(".hide").hide();
-    $(".aviara-sys").toggle();
-  });
   $(".meili").click(function(){
     $(".hide").hide();
     $(".meili-sys").toggle();
@@ -35,10 +19,6 @@ $(document).ready(function(){
   $(".tera").click(function(){
     $(".hide").hide();
     $(".tera-sys").toggle();
-  });
-  $(".sylvanoor").click(function(){
-    $(".hide").hide();
-    $(".sylvanoor-sys").toggle();
   });
   $(".durnir").click(function(){
     $(".hide").hide();
@@ -56,20 +36,7 @@ $(document).ready(function(){
     $(".hide").hide();
     $(".lirilion-sys").toggle();
   });
-  // $(".veilora").click(function(){
-  //   $(".hide").hide();
-  //   $(".veilora-sys").toggle();
-  // });
-  $(".duscar").click(function(){
+  $(".close").click(function(){
     $(".hide").hide();
-    $(".duscar-sys").toggle();
-  });
-  $(".zel").click(function(){
-    $(".hide").hide();
-    $(".zel-sys").toggle();
-  });
-  $(".xyronis").click(function(){
-    $(".hide").hide();
-    $(".xyronis-sys").toggle();
   });
 });

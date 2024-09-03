@@ -3,4 +3,12 @@ body {
   background-color: #08181D;
 }
 
+img {
+  width: 69.5%;
+  position: fixed;
+  top: 22%;
+  left: 15%;
+  border: 5px solid #336763;
+}
+
 /*# sourceMappingURL=body.css.map */

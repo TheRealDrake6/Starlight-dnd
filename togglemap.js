@@ -63,6 +63,22 @@ $(document).ready(function(){
     $(".hide").hide();
     $(".lirilion-planet").toggle();
   });
+  $(".bboboux").click(function(){
+    $(".hide").hide();
+    $(".bboboux-planet").toggle();
+  });
+  $(".kethra").click(function(){
+    $(".hide").hide();
+    $(".kethra-planet").toggle();
+  });
+  $(".merridia").click(function(){
+    $(".hide").hide();
+    $(".merridia-planet").toggle();
+  });
+  $(".orinth").click(function(){
+    $(".hide").hide();
+    $(".orinth-planet").toggle();
+  });
 
 
   $(".close").click(function(){

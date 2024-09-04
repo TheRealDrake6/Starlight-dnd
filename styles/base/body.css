@@ -4,11 +4,18 @@ body {
 }
 
 img {
-  width: 69.5%;
   position: fixed;
-  top: 22%;
-  left: 15%;
+  width: 50%;
   border: 5px solid #336763;
+}
+
+.svg {
+  width: 100%;
+  height: 1080px;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /*# sourceMappingURL=body.css.map */

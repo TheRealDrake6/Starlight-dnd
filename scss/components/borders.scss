@@ -5,14 +5,21 @@
 }
 
 .close-bar{
-    width: 70%;
-    height: 50px;
+    // width: 70%;
+    height: 100px;
     background-color: #336763;
     position: fixed;
-    top: 20%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
+    // top: 20%;
+    // left: 50%;
+    display: block;
+    // margin-left: 25%;
+    margin-top: -30%;
+    width: 50%;
+    justify-content: center;
+    // -webkit-transform: translate(-50%, -50%);
+    // transform: translate(-50%, -50%);
+    border: 5px solid #336763;
+    
 
 }
 

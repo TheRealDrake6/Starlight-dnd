@@ -5,6 +5,13 @@ h1 {
   padding: 10px;
 }
 
+h2 {
+  font-family: OCR;
+  color: #38847E;
+  margin: 0%;
+  padding: 10px;
+}
+
 .map-info {
   font-family: OCR;
   color: white;
@@ -53,6 +60,11 @@ P {
   color: #38847E;
   font-family: OCR;
   padding-left: 10px;
+}
+
+.empty {
+  margin-top: 3%;
+  font-size: 1em;
 }
 
 .close {

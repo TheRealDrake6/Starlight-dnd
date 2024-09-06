@@ -18,4 +18,39 @@ img {
   justify-content: center;
 }
 
+.bounty, .no-bounty, .no-lifeform {
+  width: 100vw;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.b1 {
+  width: 611px;
+  height: 360px;
+}
+
+.b2 {
+  width: 611px;
+  height: 360px;
+}
+
+.b3 {
+  width: 611px;
+  height: 360px;
+}
+
+.united-realms {
+  display: flex;
+  height: calc(100vh - 100px);
+  width: 100vw;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.ship-info {
+  width: 914.59px;
+}
+
 /*# sourceMappingURL=body.css.map */

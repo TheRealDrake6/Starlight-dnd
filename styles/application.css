@@ -23,6 +23,41 @@ img {
   justify-content: center;
 }
 
+.bounty, .no-bounty, .no-lifeform {
+  width: 100vw;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.b1 {
+  width: 611px;
+  height: 360px;
+}
+
+.b2 {
+  width: 611px;
+  height: 360px;
+}
+
+.b3 {
+  width: 611px;
+  height: 360px;
+}
+
+.united-realms {
+  display: flex;
+  height: calc(100vh - 100px);
+  width: 100vw;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.ship-info {
+  width: 914.59px;
+}
+
 @font-face {
   font-family: OCR;
   src: url("../font/ocr-a-extended.ttf");
@@ -31,6 +66,13 @@ img {
 h1 {
   font-family: OCR;
   color: white;
+  margin: 0%;
+  padding: 10px;
+}
+
+h2 {
+  font-family: OCR;
+  color: #38847E;
   margin: 0%;
   padding: 10px;
 }
@@ -83,6 +125,11 @@ P {
   color: #38847E;
   font-family: OCR;
   padding-left: 10px;
+}
+
+.empty {
+  margin-top: 3%;
+  font-size: 1em;
 }
 
 .close {

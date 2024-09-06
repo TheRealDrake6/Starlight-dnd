@@ -259,12 +259,12 @@ ul{
     0%{color: #38847E;
       opacity: 1;}
     
-    24%{color: #38847E;}
-    25%{color: #08181D;}
-    50%{color: #08181D;}
-    75%{color: #08181D;}
-    76%{color: #38847E;}
-    100%{color: #38847E;}
+    24%{opacity: 1;}
+    25%{opacity: 0;}
+    50%{opacity: 0;}
+    75%{opacity: 0;}
+    76%{opacity: 1;}
+    100%{opacity: 1;}
   }
   
   // @keyframes blink {

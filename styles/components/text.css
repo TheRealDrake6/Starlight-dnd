@@ -7,7 +7,7 @@ h1 {
 
 h2 {
   font-family: OCR;
-  color: #38847E;
+  color: #b2ffff;
   margin: 0%;
   padding: 10px;
 }
@@ -65,6 +65,7 @@ P {
 .empty {
   margin-top: 3%;
   font-size: 1em;
+  color: #b2ffff;
 }
 
 .close {

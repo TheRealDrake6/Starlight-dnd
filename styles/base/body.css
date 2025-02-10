@@ -69,4 +69,22 @@ img {
   width: 914.59px;
 }
 
+.flex-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weapon {
+  width: 32%;
+}
+
+.crafting {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.skill {
+  width: 10%;
+}
+
 /*# sourceMappingURL=body.css.map */

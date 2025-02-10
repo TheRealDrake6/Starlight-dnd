@@ -77,6 +77,24 @@ img {
   width: 914.59px;
 }
 
+.flex-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weapon {
+  width: 32%;
+}
+
+.crafting {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.skill {
+  width: 10%;
+}
+
 @font-face {
   font-family: OCR;
   src: url("../font/ocr-a-extended.ttf");
